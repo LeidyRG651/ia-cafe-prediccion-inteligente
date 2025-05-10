@@ -1,0 +1,21 @@
+Proyección de Ampliación del Proyecto – Prada IA (Predicción Inteligente del Café)
+
+Con el fin de fortalecer el alcance del proyecto y facilitar el acceso a los servicios predictivos de forma más práctica e inclusiva, se plantean las siguientes mejoras que se integrarán en versiones futuras del sistema:
+
+1. Generación de Reportes en Excel y PDF:
+Se incorporará la funcionalidad para generar documentos en formatos Excel (.xlsx) y PDF (.pdf) que permitan guardar y compartir los resultados de las predicciones de rendimiento del café. Estos archivos incluirán gráficos, datos analíticos, recomendaciones automáticas y serán útiles para productores, técnicos agrícolas y entidades de apoyo. Esto facilitará el análisis de información sin necesidad de conexión permanente o conocimiento técnico avanzado.
+
+2. Conexión con Base de Datos SQL:
+Se integrará una base de datos SQL (por ejemplo, MariaDB o PostgreSQL) para almacenar de forma estructurada las consultas realizadas por los usuarios, los parámetros de entrada y los resultados obtenidos. Esta funcionalidad permitirá llevar un historial por productor, realizar auditorías de uso, y optimizar el modelo predictivo con base en datos reales recolectados.
+
+3. Adaptación para Usuarios con Dificultades Técnicas:
+Pensando en aquellos productores que tienen poco acceso o conocimiento en el uso de plataformas digitales, se desarrollarán herramientas complementarias como:
+- Mensajes por voz (texto a voz) para explicar resultados de manera accesible.
+- Interfaz web o móvil simplificada con botones grandes e instrucciones claras.
+- Uso continuo del bot de Telegram como canal de interacción amigable.
+
+4. Inclusión y Escalabilidad:
+Se busca ampliar el sistema a más regiones cafeteras de Colombia, adaptando el modelo predictivo a diferentes condiciones locales. Además, se contempla la posibilidad de permitir múltiples roles de usuario (productores, técnicos, instituciones) y la inclusión de idiomas regionales o indígenas si se requiere.
+
+Estas mejoras fortalecerán el impacto del proyecto, facilitando su uso a un público más amplio, promoviendo la equidad digital y contribuyendo a una agricultura más inteligente e inclusiva.
+
