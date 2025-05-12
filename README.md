@@ -49,5 +49,13 @@ Este prototipo contempla el desarrollo en ambiente de pruebas, con:
 
 🟢 En desarrollo (versión funcional en pruebas).
 
+trabajo en Equipo 
+Luz Marina Restrepo Martínez
+
+Leidy Johana Ramírez Gutiérrez
+
+Wilmar Enrique Moya Herrera
+
+
 
 
